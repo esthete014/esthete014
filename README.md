@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-### My nik is esthete014.
-
-
-### I am 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0087F7&background=FF000000&vCenter=true&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=37&duration=3000&pause=1000&color=0087F7&background=FF000000&center=true&vCenter=true&width=435&height=51&lines=esthete014)](https://git.io/typing-svg)
 
 - :computer: C++ Developer
 
