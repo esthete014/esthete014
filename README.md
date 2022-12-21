@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+### My nik is esthete014.
 
-**esthete014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0087F7&background=FF000000&vCenter=true&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
+
+- :computer: C++ Developer
 
 - 🔭 I’m currently studying in UNN Lobachevskogo
 - 🌱 I’m currently learning c++, c#, java, js, python
