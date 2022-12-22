@@ -7,7 +7,11 @@
 - 🤔 I’m looking for help with work
 - 📫 How to reach me: @esthete014 || nikkochetov@outlook.com
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=esthete014&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/esthete014/)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=esthete014&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/esthete014/)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=esthete014&show_icons=true&theme=tokyonight)](https://github.com/esthete014/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthete014&theme=tokyonight)](https://github.com/esthete014/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthete014&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/esthete014/)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=DataStructure-CMake-Template&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/esthete014/)
+
+
+
+
