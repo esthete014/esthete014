@@ -2,7 +2,7 @@
 -------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=DataStructure-CMake-Template&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)](https://github.com/esthete014/DataStructure-CMake-Template)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=OOP2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)]([https://github.com/esthete014/DataStructure-CMake-Template](https://github.com/esthete014/OOP2))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=OOP2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)](https://github.com/esthete014/OOP2)
 
 - :computer: C++ Developer
 - 🔭 I’m currently studying in UNN Lobachevskogo
