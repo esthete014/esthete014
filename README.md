@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0087F7&background=FF000000&vCenter=true&width=435&height=58&lines=%F0%9F%96%A4esthete014%F0%9F%96%A4)
 -------
 ![](https://visitor-badge.glitch.me/badge?page_id=esthete014)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=DataStructure-CMake-Template&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)](https://github.com/esthete014/DataStructure-CMake-Template)
 
