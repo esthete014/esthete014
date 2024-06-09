@@ -1,6 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0087F7&background=FF000000&vCenter=true&width=435&height=58&lines=%F0%9F%96%A4esthete014%F0%9F%96%A4)
 -------
-![](https://visitor-badge.glitch.me/badge?page_id=esthete014)
+
+
+# POCKET PORTAL -> <img src="https://github.com/esthete014/esthete014/blob/abf18de3e20649ec9eca742331d7baa0061f3644/pocket_portal_black_circle.png" heigth="35px" width="35px"/>
+
+![](https://komarev.com/ghpvc/?username=esthete014&label=PROFILE+VIEWS)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=ClearCMD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)](https://github.com/esthete014/ClearCMD) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esthete014&repo=OOP2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=12&hide_border=true&icon_color=050910)](https://github.com/esthete014/OOP2)
 
